@@ -1,16 +1,6 @@
 {
   "expenses": [
     {
-      "id": "auto-1768307751829-w10do-2026-01-09",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-09",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768307751829-w10do"
-    },
-    {
       "id": "auto-1768307751829-w10do-2026-01-10",
       "title": "Breakfast",
       "amount": 30,
@@ -57,16 +47,6 @@
       "category": "Housing",
       "frequency": "One-time",
       "date": "2026-01-13"
-    },
-    {
-      "id": "auto-1768307751829-w10do-2026-01-09",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-09",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768307751829-w10do"
     },
     {
       "id": "auto-1768307751829-w10do-2026-01-10",

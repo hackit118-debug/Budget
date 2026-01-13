@@ -25,6 +25,19 @@
       "skippedDates": [],
       "id": "1768310123154-pjoz3",
       "lastGenerated": "2026-01-13"
+    },
+    {
+      "title": "Breakfast ",
+      "amount": 30,
+      "category": "Food",
+      "frequency": "Daily",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-31",
+      "time": "09:00",
+      "isActive": true,
+      "skippedDates": [],
+      "id": "1768310202885-cd7yw",
+      "lastGenerated": "2026-01-13"
     }
   ]
 }

@@ -1,3 +1,12 @@
 {
-  "expenses": []
+  "expenses": [
+    {
+      "id": "1768308127941-u53r3",
+      "title": "Puja",
+      "amount": 300,
+      "category": "Other",
+      "frequency": "One-time",
+      "date": "2026-01-13"
+    }
+  ]
 }

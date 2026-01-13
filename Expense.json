@@ -129,6 +129,14 @@
       "frequency": "Daily",
       "isGenerated": true,
       "recurringRuleId": "1768307751829-w10do"
+    },
+    {
+      "id": "1768307776071-2zb53",
+      "title": "Hall due",
+      "amount": 2080,
+      "category": "Housing",
+      "frequency": "One-time",
+      "date": "2026-01-13"
     }
   ]
 }
